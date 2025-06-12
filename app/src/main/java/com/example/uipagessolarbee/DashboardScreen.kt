@@ -461,7 +461,7 @@ fun RecentActivity() {
                 ActivityItem("New customer onboarded", "2 hours ago", Icons.Default.PersonAdd),
                 ActivityItem("Quotation sent to ABC Corp", "4 hours ago", Icons.Default.Send),
                 ActivityItem(
-                    "Solar panel installation completed",
+                    "Solar panel installation complete",
                     "1 day ago",
                     Icons.Default.CheckCircle
                 )
